@@ -1,0 +1,3 @@
+[submodule "IconLib"]
+	path = IconLib
+	url = https://github.com/Jamedjo/IconLib.git
